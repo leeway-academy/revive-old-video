@@ -1,0 +1,16 @@
+{
+  "name": "leewayweb/revive-old-video",
+  "description": "This script allows the random posting of videos in a YouTube Channel to Twitter",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Mauro Chojrin",
+      "email": "mauro.chojrin@leewayweb.com"
+    }
+  ],
+  "require": {
+    "j7mbo/twitter-api-php": "^1.0",
+    "madcoda/php-youtube-api": "^1.2"
+  }
+}

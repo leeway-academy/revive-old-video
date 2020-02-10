@@ -1,0 +1,14 @@
+<?php
+
+return [
+    'youtube' => [
+            'key' => 'YOUR_YOUTUBE_API_KEY',
+            'channel' => 'YOUR_YOUTUBE_CHANNEL',
+    ],
+    'twitter' => [
+            'oauth_access_token' => "YOUR_TWITTER_OAUTH_ACCESS_TOKEN",
+            'oauth_access_token_secret' => "YOUR_TWITTER_OAUTH_ACCESS_SECRET",
+            'consumer_key' => "YOUR_TWITTER_CONSUMER_KEY",
+            'consumer_secret' => "YOUR_TWITTER_CONSUMER_SECRET",
+    ],
+];
