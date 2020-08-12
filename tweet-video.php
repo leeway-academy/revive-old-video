@@ -26,5 +26,3 @@ $response = $twitter->performRequest( true, [
     CURLOPT_SSL_VERIFYHOST => 0,
     CURLOPT_SSL_VERIFYPEER => 0,
 ] );
-
-echo $response;
